@@ -54,7 +54,7 @@ The problems of pollution are very serious and must be dealt with. The problem i
 ### New Questions
 
 - In what ways can we prevent contamination?
-- How can we automate a recycling process
+- How can we automate a recycling process?
 
 ### Recommended Next Step
 
