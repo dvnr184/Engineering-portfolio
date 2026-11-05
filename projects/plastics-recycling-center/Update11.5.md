@@ -1,5 +1,6 @@
 # Shredder Update 11/5
 Shredder parts when imported and loaded into SendCutSend comes out to $470.15
+  - generated through a bill of materials comprised of the 3mm, 5mm, and 6mm parts
   - made from A36/1008 Metallic Steel
 
 Ebay Listing
