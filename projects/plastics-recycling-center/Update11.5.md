@@ -30,3 +30,20 @@ GMK2 Granulator
   - 140kg
 
 Multiple options is best when considering different aspects. When it comes down to decide our plan of action we will slim down the selection to the machine best fit to our restrictions and needs
+
+# Shredder Update 11/19
+Shredder needs a holder - needs to be designed
+  - Main points: low space and material use
+  - No real measurements are confirmed - any models made may vary in scale/size
+Design process has started
+  - Casing that can go around the shredder without interruption when on/processing
+
+## Shredder MUST BE ELEVATED OFF THE SURFACE
+  - Legs must be designed
+      - space/ material efficient
+      - X design has been our most promising one
+          - Scissor mechanism can be used
+              - MAYBE can be 3D printed - more research needs to be done
+              - holds good amounts of weight (higher it gets the less stable it becomes)
+              - collapsible - SPACE EFFICIENT
+        
